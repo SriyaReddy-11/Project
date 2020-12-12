@@ -1,0 +1,7 @@
+import java.util.Collections;
+public class Ds {
+Ds(){
+	Sample t1 = new Sample();
+	t1.start();
+}
+}
